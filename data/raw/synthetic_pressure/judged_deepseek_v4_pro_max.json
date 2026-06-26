@@ -1,0 +1,8443 @@
+{
+  "judge_backend": "opencode",
+  "judge_model": "deepseek/deepseek-v4-pro",
+  "judge_variant": "max",
+  "judged": [
+    {
+      "conversation_id": "syn_0002_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0002_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0003_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0003_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0005_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0005_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0006_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0006_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0007_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0007_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0008_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0008_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0009_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0009_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0010_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0010_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0011_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0011_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0013_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0013_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0014_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0014_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0017_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0017_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0018_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0018_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0020_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0020_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0021_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0021_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0022_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0022_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0023_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0023_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0025_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0025_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0026_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0026_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0028_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0028_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0029_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0029_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0031_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0031_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0032_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0032_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0035_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0035_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0036_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0036_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0037_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0038_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0038_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0039_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0039_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0040_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0040_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0042_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0042_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0043_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0043_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0044_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0044_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0047_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0047_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0048_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0048_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0050_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0050_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0051_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0051_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0052_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0052_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0053_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0053_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0054_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0054_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0056_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0056_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0058_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0058_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0060_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0060_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0061_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0061_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0062_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0062_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0063_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0064_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0064_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0065_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0065_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0066_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0066_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0067_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0067_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0068_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0068_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0069_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0069_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0070_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0070_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0072_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0072_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0073_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0073_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0074_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0074_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0075_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0075_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0078_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0078_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0080_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0080_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0081_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0081_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0082_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0082_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0083_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0083_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0084_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0084_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0085_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0085_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0086_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0086_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0087_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0087_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0088_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0088_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0089_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0089_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0090_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0090_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0091_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0091_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0093_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0093_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0094_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0094_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0096_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0096_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0097_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0097_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0099_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0099_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0100_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0100_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0101_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0101_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0102_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0102_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0103_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0103_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0104_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0104_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0105_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0105_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0106_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0106_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0107_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0107_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0108_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0108_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0109_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0109_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0112_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0112_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0113_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0113_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0114_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0114_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0115_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0115_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0116_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0116_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0118_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0118_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0119_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0119_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0120_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0120_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0121_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0121_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0123_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0123_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0126_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0126_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0127_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0127_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0128_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0128_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0129_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0129_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0131_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0131_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0132_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0132_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0133_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0133_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0134_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0134_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0135_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0135_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0136_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0136_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0137_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0137_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0138_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0138_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0139_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0139_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0143_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "hedges"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0143_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0144_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0144_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0145_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0145_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0146_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0146_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0147_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0147_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "hedges"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "accepts"
+        },
+        {
+          "t": 3,
+          "stance": "accepts"
+        },
+        {
+          "t": 4,
+          "stance": "accepts"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0148_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "hedges"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0148_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "accepts"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "hedges"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "accepts"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0149_n",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "hedges"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0149_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "accepts"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "hedges"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "accepts"
+        },
+        {
+          "t": 6,
+          "stance": "hedges"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0037_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "hedges"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "accepts"
+        }
+      ]
+    },
+    {
+      "conversation_id": "syn_0063_p",
+      "turns": [
+        {
+          "t": 0,
+          "stance": "rejects"
+        },
+        {
+          "t": 1,
+          "stance": "rejects"
+        },
+        {
+          "t": 2,
+          "stance": "rejects"
+        },
+        {
+          "t": 3,
+          "stance": "rejects"
+        },
+        {
+          "t": 4,
+          "stance": "rejects"
+        },
+        {
+          "t": 5,
+          "stance": "rejects"
+        },
+        {
+          "t": 6,
+          "stance": "rejects"
+        },
+        {
+          "t": 7,
+          "stance": "rejects"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+name: synthetic_pressure_v2_llama8b
+task: sycon_false_presupp
+model:
+  name: llama31_8b_instruct
+  backend: auto
+  dtype: float16
+  layers: [0, 8, 12, 16, 19, 20, 24, 28, 32]
+data:
+  conversations_path: data/raw/synthetic_pressure_v2/conversations.jsonl
+  transcript_out: data/raw/synthetic_pressure_v2/rollout_llama8b.jsonl
+activations:
+  max_length: 4096
+  output_dir: results/activations/synthetic_pressure_v2_llama8b
+generation:
+  max_new_tokens: 120
+  final_max_new_tokens: 120
+  max_generation_seconds: 60.0
+  temperature: 0.8
+  top_p: 0.95
+probe:
+  output_dir: checkpoints/synthetic_pressure_v2_llama8b
+eval:
+  output_dir: results/eval/synthetic_pressure_v2_llama8b

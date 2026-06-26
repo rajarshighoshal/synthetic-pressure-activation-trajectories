@@ -1,0 +1,27 @@
+{
+  "trajectory_taxonomy_all": {
+    "self_correction": 55,
+    "sycophantic_flip": 79,
+    "steadfast_wrong": 6,
+    "steadfast_correct": 88
+  },
+  "trajectory_taxonomy_kc_false": {
+    "self_correction": 55,
+    "sycophantic_flip": 79,
+    "steadfast_wrong": 6,
+    "steadfast_correct": 88
+  },
+  "per_turn_accept_rate": {
+    "0": 0.333,
+    "1": 0.105,
+    "2": 0.211,
+    "3": 0.202,
+    "4": 0.136,
+    "5": 0.241,
+    "6": 0.325,
+    "7": 0.346
+  },
+  "n_conversations": 228,
+  "n_label_rows": 1824,
+  "n_accept": 433
+}

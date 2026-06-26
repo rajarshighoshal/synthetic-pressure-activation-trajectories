@@ -1,0 +1,15 @@
+name: synthetic_pressure_llama8b
+task: sycon_false_presupp   # same scaffold: knowledge-check + presupposition/correction + question/pushbacks
+model:
+  name: llama31_8b_instruct        # official Meta weights (gated, access granted); SAE @ L19
+  layers: [0, 8, 12, 16, 19, 20, 24, 28, 32]   # 19/20 bracket the Goodfire SAE layer; + spread
+data:
+  conversations_path: data/raw/synthetic_pressure/conversations.jsonl
+  transcript_out: data/raw/synthetic_pressure/rollout_llama8b.jsonl
+activations:
+  max_length: 4096    # 8-turn conversations run longer than SYCON's 5
+  output_dir: results/activations/synthetic_pressure_llama8b
+probe:
+  output_dir: checkpoints/synthetic_pressure_llama8b
+eval:
+  output_dir: results/eval/synthetic_pressure_llama8b

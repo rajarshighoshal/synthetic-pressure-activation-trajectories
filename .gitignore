@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+results/activations/
+checkpoints/
+*.pt
+*.safetensors
+*.npz
+
+.env
+
