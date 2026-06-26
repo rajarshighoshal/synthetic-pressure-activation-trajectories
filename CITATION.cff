@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Ghoshal
     given-names: Rajarshi
-repository-code: "https://github.com/rajarshighoshal/activation-geometry-honesty-failures"
+repository-code: "https://github.com/rajarshighoshal/geometry-of-deception"
 abstract: >
   Public artifact record for activation-space experiments on honesty failures in language models.
   The release includes a paired synthetic-pressure pilot showing that pressure-induced caving to

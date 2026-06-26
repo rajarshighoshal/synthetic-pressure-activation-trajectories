@@ -3,6 +3,8 @@
 Public artifact record for experiments on activation-space monitoring and control of
 honesty failures in language models.
 
+*Supported by a Rapid Grant from BlueDot Impact.*
+
 **Epistemic status:** pilot — one model (Llama-3.1-8B; 4-bit for the control experiments),
 a synthetic construct, ~100 scenarios for the headline trajectory split and ~46 for the
 control audit. Per-turn detection is tightly estimated; trajectory, geometry, and control
@@ -40,6 +42,14 @@ The first artifact answers yes for detection, and a qualified yes for trajectori
 - **Geometry-aware probes do not yet win.** Tangent-subspace trajectory probes are
   competitive but never clearly beat plain Euclidean linear/MLP baselines. That
   negative result is kept here on purpose, not buried.
+
+## Documentation
+
+Three write-ups accompany the code:
+
+- [`docs/synthetic_pressure_first_draft.md`](docs/synthetic_pressure_first_draft.md) — pilot research note: how activation trajectories detect caving under pressure.
+- [`docs/graded_control_directional_audit.md`](docs/graded_control_directional_audit.md) — the graded PASS/FAIL control audit, including the powered follow-up (control = detection + a measured probe).
+- [`docs/NEXT_STEPS.md`](docs/NEXT_STEPS.md) — the geometry-aware probe roadmap and concrete win conditions.
 
 ## What we found
 
@@ -217,11 +227,11 @@ trajectory and geometry gaps are inside the noise.
 ## Install
 
 ```bash
-git clone https://github.com/rajarshighoshal/activation-geometry-honesty-failures
-cd activation-geometry-honesty-failures
+git clone https://github.com/rajarshighoshal/geometry-of-deception
+cd geometry-of-deception
 pip install -e .            # Python >= 3.10
 pip install -e ".[dev]"     # + pytest/ruff, to run the tests
-pytest -q                   # 28 passed
+pytest -q                   # 60 passed
 ```
 
 ## Reproduce
@@ -315,8 +325,9 @@ results/eval/synthetic_pressure_llama8b/     # *_pairgroup.json + final_summary.
 figures/                                     # README figures generated from final_summary.json
 src/geoprobe/                                # activation loading, probes, trajectory features, eval runners
 docs/
-  synthetic_pressure_first_draft.md          # the pilot writeup (research note)
-  NEXT_STEPS.md                              # geometry-aware probe plan
+  synthetic_pressure_first_draft.md          # pilot research note (detection)
+  graded_control_directional_audit.md        # graded PASS/FAIL control audit
+  NEXT_STEPS.md                              # geometry-aware probe roadmap
 ```
 
 This release ships only the code that produced the results above — nothing from the
